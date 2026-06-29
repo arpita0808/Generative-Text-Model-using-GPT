@@ -62,8 +62,6 @@ Generative-Text-Model-using-GPT-2/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── sample_prompts.txt
-├── screenshots/
 └── output/
 ```
 
