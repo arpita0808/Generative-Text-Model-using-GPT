@@ -1,0 +1,6 @@
+tensorflow
+numpy
+torch
+transformers
+accelerate
+gradio
